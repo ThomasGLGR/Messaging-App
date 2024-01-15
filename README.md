@@ -3,7 +3,7 @@ Messaging App use Java and MySQL
 
 -Send Message
 
--Send picture
+-Send Picture
 
 -Send Audio
 
